@@ -50,7 +50,7 @@
 
                 <!-- Student Name -->
                 <div>
-                    <label for="name">Student Name</label>
+                    <label for="name">Student Name:</label>
                     <input type="text" id="name" name="name" value="<?= old('name') ?>" required>
                 </div>
 
